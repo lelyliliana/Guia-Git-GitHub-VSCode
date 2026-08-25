@@ -29,7 +29,7 @@ A lo largo de esta guía aprenderás a:
 
 La guía estará organizada en los siguientes temas:
 
-1. Instalación y configuración.
+1. [Instalación y configuración de Git](01-instalacion-y-configuracion/README.md).
 2. Preparación de Visual Studio Code.
 3. Primer repositorio.
 4. Subir un proyecto existente.
