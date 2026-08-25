@@ -32,7 +32,7 @@ La guía estará organizada en los siguientes temas:
 1. [Instalación y configuración de Git](01-instalacion-y-configuracion/README.md).
 2. [Preparar Visual Studio Code para trabajar con Git y GitHub](02-preparar-vscode/README.md).
 3. [Crear el primer repositorio con Git y GitHub](03-primer-repositorio/README.md).
-4. Subir un proyecto existente.
+4. [Subir un proyecto existente a GitHub](04-subir-proyecto-existente/README.md).
 5. Flujo de trabajo diario.
 6. Clonar un repositorio.
 7. Actualizar un proyecto.
