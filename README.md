@@ -38,7 +38,7 @@ La guía estará organizada en los siguientes temas:
 7. [Actualizar un repositorio con `git pull`](07-actualizar-repositorio/README.md).
 8. [Usar Source Control en Visual Studio Code](08-source-control-vscode/README.md).
 9. [Trabajo colaborativo con GitHub](09-trabajo-colaborativo/README.md).
-10. Ramas.
+10. [Trabajar con ramas en Git](10-ramas/README.md).
 11. Conflictos.
 12. Errores frecuentes.
 
