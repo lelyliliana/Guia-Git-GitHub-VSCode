@@ -35,7 +35,7 @@ La guía estará organizada en los siguientes temas:
 4. [Subir un proyecto existente a GitHub](04-subir-proyecto-existente/README.md).
 5. [Flujo de trabajo diario con Git y GitHub](05-flujo-trabajo-diario/README.md).
 6. [Clonar un repositorio desde GitHub](06-clonar-repositorio/README.md).
-7. Actualizar un proyecto.
+7. [Actualizar un repositorio con `git pull`](07-actualizar-repositorio/README.md).
 8. Control de código fuente en VS Code.
 9. Trabajo colaborativo.
 10. Ramas.
