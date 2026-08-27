@@ -37,7 +37,7 @@ La guía estará organizada en los siguientes temas:
 6. [Clonar un repositorio desde GitHub](06-clonar-repositorio/README.md).
 7. [Actualizar un repositorio con `git pull`](07-actualizar-repositorio/README.md).
 8. [Usar Source Control en Visual Studio Code](08-source-control-vscode/README.md).
-9. Trabajo colaborativo.
+9. [Trabajo colaborativo con GitHub](09-trabajo-colaborativo/README.md).
 10. Ramas.
 11. Conflictos.
 12. Errores frecuentes.
