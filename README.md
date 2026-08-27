@@ -36,7 +36,7 @@ La guía estará organizada en los siguientes temas:
 5. [Flujo de trabajo diario con Git y GitHub](05-flujo-trabajo-diario/README.md).
 6. [Clonar un repositorio desde GitHub](06-clonar-repositorio/README.md).
 7. [Actualizar un repositorio con `git pull`](07-actualizar-repositorio/README.md).
-8. Control de código fuente en VS Code.
+8. [Usar Source Control en Visual Studio Code](08-source-control-vscode/README.md).
 9. Trabajo colaborativo.
 10. Ramas.
 11. Conflictos.
