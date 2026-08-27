@@ -127,6 +127,15 @@ Utiliza la tabla de contenido para ir directamente al tema que necesites. Cada c
 - [Trabajar con ramas](./10-ramas/)
 - [Resolver conflictos](./11-conflictos/)
 - [Consultar errores frecuentes](./12-errores-frecuentes/)
+- [Comandos rápidos](./recursos/comandos-rapidos.md)
+- [Glosario de Git, GitHub y Visual Studio Code](./recursos/glosario.md)
+
+---
+
+## Recursos rápidos
+
+- **[Comandos rápidos](./recursos/comandos-rapidos.md):** chuleta organizada por situaciones para localizar rápidamente el comando adecuado.
+- **[Glosario](./recursos/glosario.md):** definiciones sencillas de los términos utilizados a lo largo de la guía.
 
 ---
 
@@ -269,4 +278,10 @@ Esta es una guía en evolución. Puede actualizarse con nuevos ejemplos, errores
 
 ## Autoría
 
-Material académico de apoyo para procesos de enseñanza y aprendizaje en programación y desarrollo de software.
+**Autora:** Leli Liliana Díaz Izquierdo
+
+**Profesión:** Ingeniera de Sistemas
+
+**Uso:** Material académico de apoyo para procesos de enseñanza y aprendizaje en programación, desarrollo de software, Git, GitHub y Visual Studio Code.
+
+Esta guía fue diseñada como recurso de consulta y aprendizaje para estudiantes.
