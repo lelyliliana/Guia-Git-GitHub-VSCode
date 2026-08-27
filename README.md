@@ -40,7 +40,7 @@ La guía estará organizada en los siguientes temas:
 9. [Trabajo colaborativo con GitHub](09-trabajo-colaborativo/README.md).
 10. [Trabajar con ramas en Git](10-ramas/README.md).
 11. [Resolver conflictos en Git](11-conflictos/README.md).
-12. Errores frecuentes.
+12. [Errores frecuentes en Git y GitHub](12-errores-frecuentes/README.md).
 
 ---
 
