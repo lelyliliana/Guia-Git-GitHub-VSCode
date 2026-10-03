@@ -1,5 +1,7 @@
 # 09. Trabajo colaborativo con GitHub
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección aprenderás un flujo básico para colaborar en un mismo repositorio desde Visual Studio Code. También conocerás cómo prevenir, reconocer y resolver de forma introductoria un conflicto.
 
 El ejemplo supone que el equipo tiene permiso para escribir directamente en el repositorio compartido. En proyectos más grandes suelen utilizarse ramas y *pull requests*, que se estudiarán posteriormente.
@@ -584,3 +586,12 @@ Confirma que puedes realizar cada tarea:
 - [ ] Coordino tareas, cambios y publicaciones con los demás integrantes.
 
 Si completaste la lista, ya conoces un flujo inicial y seguro para colaborar en GitHub desde Visual Studio Code.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [08. Usar Source Control en Visual Studio Code](../08-source-control-vscode/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [10. Trabajar con ramas en Git](../10-ramas/README.md)

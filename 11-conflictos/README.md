@@ -1,5 +1,7 @@
 # 11. Resolver conflictos en Git
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección aprenderás a reconocer y resolver conflictos de Git desde Visual Studio Code. El objetivo es conservar el trabajo válido de todas las personas y completar la integración de forma consciente.
 
 ---
@@ -556,3 +558,12 @@ Confirma que puedes realizar cada tarea:
 - [ ] Evito `force push`, `reset --hard` y otras operaciones destructivas.
 
 Si completaste la lista, ya puedes resolver conflictos básicos protegiendo el trabajo local y las contribuciones del equipo.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [10. Trabajar con ramas en Git](../10-ramas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [12. Errores frecuentes en Git y GitHub](../12-errores-frecuentes/README.md)

@@ -1,5 +1,7 @@
 # 02. Preparar Visual Studio Code para trabajar con Git y GitHub
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección prepararás Visual Studio Code para trabajar con un proyecto controlado mediante Git. Aprenderás a abrir la carpeta correcta, utilizar la terminal integrada e identificar las herramientas de Git disponibles en el editor.
 
 No modificarás todavía el historial del proyecto ni publicarás archivos en GitHub. El objetivo es reconocer el entorno de trabajo y comprobar que todo está listo.
@@ -228,3 +230,12 @@ Si completaste la lista, Visual Studio Code está preparado para comenzar a trab
 | Icono **Extensions** | Barra lateral de Visual Studio Code | Permite buscar y administrar extensiones. |
 
 Cuando termines esta preparación, podrás continuar con la creación o inicialización de tu primer repositorio Git.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [01. Instalación y configuración de Git](../01-instalacion-y-configuracion/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [03. Crear el primer repositorio con Git y GitHub](../03-primer-repositorio/README.md)

@@ -1,5 +1,7 @@
 # 04. Subir un proyecto existente a GitHub
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección aprenderás a publicar en GitHub un proyecto que ya está guardado en tu computador. Todo el trabajo local se realizará desde Visual Studio Code y su terminal integrada.
 
 Antes de comenzar, asegúrate de tener Git configurado y una cuenta de GitHub. Si necesitas repasar algún concepto, consulta las secciones [01. Instalación y configuración de Git](../01-instalacion-y-configuracion/README.md), [02. Preparar Visual Studio Code para trabajar con Git y GitHub](../02-preparar-vscode/README.md) y [03. Crear el primer repositorio con Git y GitHub](../03-primer-repositorio/README.md).
@@ -530,3 +532,12 @@ Antes de terminar, confirma cada punto:
 - [ ] Verifiqué los archivos y su contenido en GitHub.
 
 Si completaste la lista, tu proyecto existente ya está almacenado en un repositorio Git y publicado de forma segura en GitHub.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [03. Crear el primer repositorio con Git y GitHub](../03-primer-repositorio/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [05. Flujo de trabajo diario con Git y GitHub](../05-flujo-trabajo-diario/README.md)

@@ -1,5 +1,7 @@
 # 01. Instalación y configuración de Git
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección aprenderás a instalar Git y a realizar su configuración inicial desde Visual Studio Code. No necesitas tener conocimientos previos.
 
 ---
@@ -183,3 +185,11 @@ Antes de continuar con el siguiente capítulo, confirma cada punto:
 - [ ] La rama inicial está configurada como `main`.
 
 Si completaste toda la lista, Git está listo para comenzar a trabajar con repositorios desde Visual Studio Code.
+
+
+---
+
+## Continuar el curso
+
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [02. Preparar Visual Studio Code para trabajar con Git y GitHub](../02-preparar-vscode/README.md)

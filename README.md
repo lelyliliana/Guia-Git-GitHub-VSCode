@@ -1,5 +1,11 @@
 # Guía de Git y GitHub con Visual Studio Code
 
+**[Comenzar el curso: 01. Instalación y configuración de Git](01-instalacion-y-configuracion/README.md)**
+
+Puedes leer las lecciones aquí sin conocer GitHub. Al terminar cada unidad, usa **Siguiente unidad** para avanzar; **Unidad anterior** y **Volver al índice** te permiten regresar.
+
+[Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 Guía práctica diseñada para estudiantes que necesitan aprender a utilizar **Git** y **GitHub** desde **Visual Studio Code** mediante procedimientos claros y progresivos.
 
 Puede utilizarse:

@@ -1,5 +1,7 @@
 # 06. Clonar un repositorio desde GitHub
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección aprenderás a obtener una copia local de un repositorio de GitHub y a abrirla correctamente en Visual Studio Code. Primero utilizarás la terminal integrada para comprender el proceso y después conocerás la alternativa gráfica.
 
 ---
@@ -405,3 +407,12 @@ Confirma que puedes completar cada tarea:
 - [ ] Sé diferenciar `git clone` de **Download ZIP**.
 
 Si completaste la lista, ya puedes clonar repositorios de GitHub y prepararlos correctamente para trabajar desde Visual Studio Code.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [05. Flujo de trabajo diario con Git y GitHub](../05-flujo-trabajo-diario/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [07. Actualizar un repositorio con `git pull`](../07-actualizar-repositorio/README.md)

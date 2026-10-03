@@ -1,5 +1,7 @@
 # 05. Flujo de trabajo diario con Git y GitHub
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 Esta sección presenta una rutina práctica para guardar correctamente los cambios de un proyecto y publicarlos en GitHub desde la terminal integrada de Visual Studio Code.
 
 El procedimiento supone que el repositorio ya fue creado, tiene al menos un commit y está conectado con GitHub. Si todavía no lo está, consulta [03. Crear el primer repositorio con Git y GitHub](../03-primer-repositorio/README.md) o [04. Subir un proyecto existente a GitHub](../04-subir-proyecto-existente/README.md).
@@ -462,3 +464,12 @@ Confirma que puedes realizar cada tarea:
 - [ ] Consulto el historial con `git log --oneline`.
 
 Si completaste la lista, ya puedes utilizar el flujo diario básico de Git y GitHub desde Visual Studio Code.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [04. Subir un proyecto existente a GitHub](../04-subir-proyecto-existente/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [06. Clonar un repositorio desde GitHub](../06-clonar-repositorio/README.md)

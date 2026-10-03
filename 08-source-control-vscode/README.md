@@ -1,5 +1,7 @@
 # 08. Usar Source Control en Visual Studio Code
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección aprenderás a realizar tareas básicas de Git mediante el panel **Source Control** de Visual Studio Code. Cada acción gráfica se relacionará con el comando que ya conoces para que comprendas qué ocurre.
 
 Los nombres, iconos o posiciones de algunos botones pueden variar ligeramente según la versión, el idioma, el tamaño de la ventana y la configuración de Visual Studio Code.
@@ -419,3 +421,12 @@ Confirma que puedes completar cada tarea:
 - [ ] Distingo el historial local de los commits publicados en el remoto.
 
 Si completaste la lista, ya puedes combinar la terminal y Source Control para realizar el flujo básico de Git desde Visual Studio Code.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [07. Actualizar un repositorio con `git pull`](../07-actualizar-repositorio/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [09. Trabajo colaborativo con GitHub](../09-trabajo-colaborativo/README.md)

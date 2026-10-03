@@ -1,5 +1,7 @@
 # 03. Crear el primer repositorio con Git y GitHub
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección crearás un repositorio local desde Visual Studio Code, guardarás su primera versión con Git y publicarás el proyecto en GitHub.
 
 Antes de comenzar, comprueba que Git esté instalado y configurado, y que tengas una cuenta de GitHub. Si necesitas ayuda, consulta las secciones [01. Instalación y configuración de Git](../01-instalacion-y-configuracion/README.md) y [02. Preparar Visual Studio Code para trabajar con Git y GitHub](../02-preparar-vscode/README.md).
@@ -420,3 +422,12 @@ Antes de continuar con la guía, confirma cada punto:
 - [ ] Puedo ver `README.md` y el commit en GitHub.
 
 Si completaste toda la lista, ya creaste tu primer repositorio Git y lo conectaste correctamente con GitHub.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [02. Preparar Visual Studio Code para trabajar con Git y GitHub](../02-preparar-vscode/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [04. Subir un proyecto existente a GitHub](../04-subir-proyecto-existente/README.md)

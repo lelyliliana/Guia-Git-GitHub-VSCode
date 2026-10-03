@@ -1,5 +1,7 @@
 # 10. Trabajar con ramas en Git
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección aprenderás a crear, cambiar, publicar e integrar ramas desde la terminal de Visual Studio Code. También relacionarás estas operaciones con la interfaz gráfica del editor.
 
 Los ejemplos suponen que trabajas en un repositorio existente, con al menos un commit y una rama principal llamada `main`.
@@ -593,3 +595,12 @@ Confirma que puedes realizar cada tarea:
 - [ ] Creo y cambio ramas también desde la interfaz de Visual Studio Code.
 
 Si completaste la lista, ya puedes utilizar ramas para organizar tareas y proteger la estabilidad de `main`.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [09. Trabajo colaborativo con GitHub](../09-trabajo-colaborativo/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [11. Resolver conflictos en Git](../11-conflictos/README.md)

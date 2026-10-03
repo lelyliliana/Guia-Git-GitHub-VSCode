@@ -1,5 +1,7 @@
 # 12. Errores frecuentes en Git y GitHub
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 Esta sección es una referencia rápida para diagnosticar problemas comunes desde Visual Studio Code. Busca una parte reconocible del mensaje, lee su explicación y realiza primero las comprobaciones seguras.
 
 ---
@@ -769,3 +771,13 @@ Confirma que puedes realizar cada tarea:
 - [ ] Evito comandos destructivos y soluciones al azar.
 
 Si completaste la lista, puedes diagnosticar los problemas más frecuentes de Git, GitHub y Visual Studio Code de forma segura y ordenada.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [11. Resolver conflictos en Git](../11-conflictos/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+
+Llegaste a la última unidad. Revisa tu proyecto y la lista de comprobación antes de dar por terminado el curso.

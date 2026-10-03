@@ -1,5 +1,7 @@
 # 07. Actualizar un repositorio con `git pull`
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/git-github/)
+
 En esta sección aprenderás a traer a tu computador los cambios nuevos de un repositorio de GitHub. El objetivo principal es actualizar el proyecto sin poner en riesgo el trabajo local.
 
 El procedimiento supone que el repositorio ya fue clonado o conectado con GitHub. Si todavía no tienes una copia local, consulta [06. Clonar un repositorio desde GitHub](../06-clonar-repositorio/README.md).
@@ -457,3 +459,12 @@ Confirma que puedes realizar cada tarea:
 - [ ] Sé que no debo forzar una operación sin comprender el problema y proteger primero el trabajo local.
 
 Si completaste la lista, ya puedes actualizar de forma consciente y segura un repositorio local desde la terminal integrada de Visual Studio Code.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [06. Clonar un repositorio desde GitHub](../06-clonar-repositorio/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [08. Usar Source Control en Visual Studio Code](../08-source-control-vscode/README.md)
