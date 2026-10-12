@@ -291,3 +291,15 @@ Esta es una guía en evolución. Puede actualizarse con nuevos ejemplos, errores
 **Uso:** Material académico de apoyo para procesos de enseñanza y aprendizaje en programación, desarrollo de software, Git, GitHub y Visual Studio Code.
 
 Esta guía fue diseñada como recurso de consulta y aprendizaje para estudiantes.
+
+---
+
+### ¿Necesitas acompañamiento personalizado?
+
+Puedes estudiar este curso por tu cuenta. Si necesitas apoyo para configurar el entorno, comprender o resolver un error, o aplicar lo aprendido a tu tesis o proyecto, podemos trabajarlo en una sesión individual.
+
+- **Preparar el entorno:** revisar la instalación y configuración de herramientas y dependencias.
+- **Comprender y resolver errores:** analizar lo que ocurre y trabajar en una solución.
+- **Aplicarlo a tu proyecto:** te acompaño a comprender el contenido y adaptarlo a tu caso.
+
+[**Solicitar asesoría sobre este curso**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20revisando%20el%20curso%20de%20Git%2C%20GitHub%20y%20VS%20Code%20(lelyliliana%2FGuia-Git-GitHub-VSCode)%20y%20me%20interesa%20una%20asesor%C3%ADa%20personalizada.%20Necesito%20apoyo%20con%E2%80%A6)
