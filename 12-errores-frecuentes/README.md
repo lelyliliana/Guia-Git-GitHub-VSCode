@@ -781,3 +781,11 @@ Si completaste la lista, puedes diagnosticar los problemas más frecuentes de Gi
 - **Volver al índice:** [Todas las unidades](../README.md)
 
 Llegaste a la última unidad. Revisa tu proyecto y la lista de comprobación antes de dar por terminado el curso.
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Errores%20frecuentes%20del%20curso%20Git%2C%20GitHub%20y%20VS%20Code%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FGuia-Git-GitHub-VSCode%2Ftree%2Fmain%2F12-errores-frecuentes%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)

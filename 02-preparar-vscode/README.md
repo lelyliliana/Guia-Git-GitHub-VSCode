@@ -239,3 +239,11 @@ Cuando termines esta preparación, podrás continuar con la creación o iniciali
 - **Unidad anterior:** [01. Instalación y configuración de Git](../01-instalacion-y-configuracion/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [03. Crear el primer repositorio con Git y GitHub](../03-primer-repositorio/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Preparar%20Visual%20Studio%20Code%20del%20curso%20Git%2C%20GitHub%20y%20VS%20Code%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FGuia-Git-GitHub-VSCode%2Ftree%2Fmain%2F02-preparar-vscode%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)

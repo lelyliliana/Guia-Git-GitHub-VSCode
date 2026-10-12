@@ -431,3 +431,11 @@ Si completaste toda la lista, ya creaste tu primer repositorio Git y lo conectas
 - **Unidad anterior:** [02. Preparar Visual Studio Code para trabajar con Git y GitHub](../02-preparar-vscode/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [04. Subir un proyecto existente a GitHub](../04-subir-proyecto-existente/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Crear%20el%20primer%20repositorio%20del%20curso%20Git%2C%20GitHub%20y%20VS%20Code%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FGuia-Git-GitHub-VSCode%2Ftree%2Fmain%2F03-primer-repositorio%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)

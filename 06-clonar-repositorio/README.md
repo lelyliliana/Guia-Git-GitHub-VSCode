@@ -416,3 +416,11 @@ Si completaste la lista, ya puedes clonar repositorios de GitHub y prepararlos c
 - **Unidad anterior:** [05. Flujo de trabajo diario con Git y GitHub](../05-flujo-trabajo-diario/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [07. Actualizar un repositorio con `git pull`](../07-actualizar-repositorio/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Clonar%20un%20repositorio%20del%20curso%20Git%2C%20GitHub%20y%20VS%20Code%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FGuia-Git-GitHub-VSCode%2Ftree%2Fmain%2F06-clonar-repositorio%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)
